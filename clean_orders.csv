@@ -1,0 +1,15 @@
+order_id,customer,product,price,quantity,order_date,region,total_price
+1,Alice,Widget,19.99,2.0,2024-01-05,West,39.98
+2,Bob,Gadget,29.99,1.0,2024-01-06,East,29.99
+3,Carol,widget,19.99,3.0,2024-01-07,West,59.97
+4,Dave,Gizmo,39.99,2.0,2024-01-07,South,79.98
+5,Eve,Gadget,29.99,2.0,2024-01-08,East,59.98
+6,Frank,Widget,19.99,5.0,2024-01-09,West,99.94999999999999
+7,Carol,Widget,19.99,2.0,2024-01-09,West,39.98
+8,Grace,Gizmo,39.99,1.0,2024-01-10,South,39.99
+9,Heidi,Gadget,29.99,4.0,2024-01-11,Unknown,119.96
+10,Ivan,Unknown,39.99,1.0,2024-01-12,East,39.99
+11,Judy,Widget,19.99,1.0,2024-01-12,West,19.99
+12,Bob,Gadget,29.99,2.0,2024-01-13,East,59.98
+13,Liam,Gizmo,39.99,1.0,2024-01-14,South,39.99
+14,Mia,Widget,19.99,1.0,2024-01-15,West,19.99
