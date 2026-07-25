@@ -9,7 +9,7 @@ df["hours_per_week"] = df["hours_per_week"].fillna(df["hours_per_week"].median()
 
 X = df[["experience_years", "education_years", "hours_per_week"]]
 y = df["salary"]
-
+# Train on full dataset — model quality already validated in LinearRegression.py
 model = LinearRegression()
 model.fit(X, y)
 
